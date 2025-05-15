@@ -1,16 +1,31 @@
-## Hi there 👋
 
-<!--
-**DeFi-G/DeFi-G** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# DeFiG  
+**Architect of the first encrypted blockchain infrastructure.**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### The Vision  
+DeFi is not a product.  
+It’s not a token.  
+It’s an encrypted foundation for builders—  
+A return to privacy, permanence, and purpose in the age of surveillance.
+
+No treasury.  
+No team.  
+No owners.
+
+---
+
+### What Lives Here
+
+- [DeFi Manifesto](https://github.com/DeFiG/defi-manifesto) – The original declaration  
+- [DeFi Core](https://github.com/DeFiG/defi-core) – Chain structure and validator tools  
+- Gcoin – A 7 million supply encrypted token  
+- Upcoming: DeFi-G NFTs, Ancient Alchemy, DeFi Radio
+
+---
+
+> *"I lit the match. But DeFi isn’t mine.  
+> It’s encrypted architecture for the world to build on."*
+
+#Gcoin #Privacy #Builders #DeFi
